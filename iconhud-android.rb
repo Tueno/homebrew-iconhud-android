@@ -1,8 +1,8 @@
 class IconhudAndroid < Formula
   desc ""
   homepage "https://github.com/Tueno/iconhud-android"
-  url "https://github.com/Tueno/iconhud-android/archive/0.1.zip"
-  sha256 "5801684179ee6cfcf9abe36ae2d50496fdefa7a0c2a7a1a84af41d425de0b40b"
+  url "https://github.com/Tueno/iconhud-android/archive/0.11.zip"
+  sha256 "de13d81481aaf0deccff4a39bc3ad24ce03b18b8c612257b51764e8194dd1add"
 
   depends_on :xcode => ["8.0", :build]
   depends_on "apktool"
